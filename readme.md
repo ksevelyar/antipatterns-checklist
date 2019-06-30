@@ -1,6 +1,10 @@
-# antipatterns_checklist
+# Antipatterns Checklist
 
 ![Checklist](https://i.imgur.com/BWpcBBb.png)
+
+## Demo
+
+https://github.com/ksevelyar/antipatterns-checklist
 
 ## Power of checklists
 
