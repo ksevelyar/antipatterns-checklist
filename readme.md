@@ -4,7 +4,7 @@
 
 ## Demo
 
-https://github.com/ksevelyar/antipatterns-checklist
+https://ksevelyar.github.io/antipatterns-checklist/
 
 ## Power of checklists
 
