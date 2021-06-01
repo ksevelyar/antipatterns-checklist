@@ -15,11 +15,13 @@ module.exports = {
       "warn",
       {
         semi: false,
-        printWidth: 100
+        printWidth: 100,
+        singleQuote: true
       }
     ]
   },
   parserOptions: {
+    ecmaVersion: 2020,
     parser: "babel-eslint",
     sourceType: "module"
   }
